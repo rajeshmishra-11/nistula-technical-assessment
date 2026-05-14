@@ -10,3 +10,4 @@ env/
 dist/
 build/
 pdf_content.txt
+*.pdf
