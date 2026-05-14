@@ -65,5 +65,3 @@ A recurring-complaint detector runs on the incident log. When the same `property
 The principle: the system should never treat a complaint as a closed event. Every resolved complaint is a data point, and three data points are a pattern that demands a structural response.
 
 ---
-
-*Total word count: ~430 (slight overflow to preserve clarity of the system design section)*
